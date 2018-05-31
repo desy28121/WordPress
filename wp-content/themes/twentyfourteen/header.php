@@ -63,6 +63,12 @@
 			</nav>
 		</div>
 
+		<?php echo do_shortcode('[metaslider id="181"]'); ?>
+
+		
+		
+		
+		
 		<div id="search-container" class="search-box-wrapper hide">
 			<div class="search-box">
 				<?php get_search_form(); ?>
