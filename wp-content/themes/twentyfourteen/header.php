@@ -63,6 +63,11 @@
 			</nav>
 		</div>
 
+		
+		
+		
+		
+		
 		<div id="search-container" class="search-box-wrapper hide">
 			<div class="search-box">
 				<?php get_search_form(); ?>
